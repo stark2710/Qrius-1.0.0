@@ -1,0 +1,15 @@
+.foot{
+    text-decoration: none;
+
+}
+a:hover{
+    text-color: black;
+}
+.nav a:hover { color: #ffffff;
+    background-color: red; }
+
+.nav a {
+    color: #232d37;
+}
+ 
+
